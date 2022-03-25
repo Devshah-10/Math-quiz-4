@@ -1,0 +1,83 @@
+body {
+    background-image:url("beach.jpg");
+    background-size: cover;
+}
+
+#Head {
+    color: black;
+}
+
+#Text_1 {
+
+width: 350px;
+border-radius: 50px;
+float:none;
+
+}
+
+#Text_2 {
+
+width: 350px;
+border-radius: 50px;
+float:none;
+
+}
+
+#But {
+    border-radius: 50px;
+    width: 100px;
+}
+
+#SecPg {
+
+background-image: url(Galaxy.jpg);
+background-size: cover;
+
+}
+
+#P_1, #P_2 {
+    color: darkblue;
+}
+
+#Question, #Answer {
+    color: green;
+}
+
+#Ques_P {
+    background-color: white;
+}
+
+#Sec_B {
+
+background-image: url("Galaxy.jpg");
+
+}
+
+#N1, #N2 {
+    width: 600px;
+    border-radius: 10px;
+}
+
+#Send2 {
+    background-color: aqua;
+    color: black;
+    width: 10px;
+    border-radius: 40px;
+    margin-bottom: 50px;
+}
+
+#output {
+
+    background: white;
+    border-radius: 10px;
+    border: 10px solid gray;
+    float:none;
+    text-align: left;
+}
+
+
+#player1_N, #player2_N {
+
+    display: inline-block;
+    margin-left: 20px;
+}
